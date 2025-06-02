@@ -40,7 +40,6 @@ Under Notification, select the SNS topic you just created (cpu-alert-topic)
 Save the alarm
 ![image](https://github.com/user-attachments/assets/113194ed-ac14-4dbf-a8e4-8ee3dcdb614e)
 ![image](https://github.com/user-attachments/assets/0d8b2563-c0d8-4fc8-9646-a3b0e762da83)
-![Uploading image.png…]()
 
 
 
